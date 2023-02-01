@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8d0e0a97-6c0e-489c-a03a-ce3bf3f87f97
+:END:
+#+title: Inbox
+
+* something
+* something else
+[[id:bada47ff-251f-4093-86d9-18667b75cce6][Tato]]
+
+* another cos
+
+[[id:0fa8b6ec-fb4b-44a6-af13-1e480c0bcd76][Pepe]]

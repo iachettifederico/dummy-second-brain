@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d0b02ddb-4edd-43a1-b040-e9fc68432729
+:END:
+#+title: Tete
+
+I'm Tete
+
+
+[[id:91042710-55c9-4d48-97d7-7ac5a59a54cd][Tete: sub-tete]]
+

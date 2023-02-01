@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       72ec5423-eb36-4a6b-8167-5815a7f997f6
+:END:
+#+title: Rocky
+
+[[id:2157e071-6e1a-432e-a0dd-dfb9d1acf6dc][Rocky: sub-Rocky]]
